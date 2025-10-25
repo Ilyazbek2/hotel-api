@@ -1,0 +1,7 @@
+POST /add-room
+{
+  "floor": 2,
+  "beds": 2,
+  "guestNum": 3,
+  "price": 150
+}

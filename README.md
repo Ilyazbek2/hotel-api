@@ -18,4 +18,3 @@ Designed to pass all automated Postman tests.
 ```bash
 git clone https://github.com/<your-username>/hotel-api.git
 cd hotel-api
-pip install -r requirements.txt

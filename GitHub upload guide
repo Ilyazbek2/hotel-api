@@ -1,4 +1,4 @@
-```bash
+#bash
 cd your-folder
 git init
 git add .
